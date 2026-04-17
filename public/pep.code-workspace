@@ -1,0 +1,75 @@
+{
+	"folders": [
+		{
+			"name": "New folder",
+			"path": "../../../../New folder"
+		},
+		{
+			"name": "collab-future-nexus-main",
+			"path": "../../../../Downloads/collab-future-nexus-main (3)/collab-future-nexus-main"
+		},
+		{
+			"name": "collabnet",
+			"path": "../../collabnet"
+		},
+		{
+			"name": "portfolio",
+			"path": "../../portfolio"
+		},
+		{
+			"name": "managment",
+			"path": "../../managment"
+		},
+		{
+			"name": "snake game",
+			"path": "../../snake game"
+		},
+		{
+			"name": "project",
+			"path": "../../project"
+		},
+		{
+			"name": "wave",
+			"path": ".."
+		},
+		{
+			"name": "project",
+			"path": "../../../../Downloads/project-bolt-sb1-wvvqsba9/project"
+		},
+		{
+			"name": "aqua",
+			"path": "../../aqua"
+		},
+		{
+			"name": "naypvfjg.manus.space",
+			"path": "../../../../Downloads/website_code/naypvfjg.manus.space"
+		},
+		{
+			"name": "project",
+			"path": "../../project-bolt-sb1-d8pdlrch (1)/project"
+		},
+		{
+			"name": "smartlink",
+			"path": "../../smartlink"
+		},
+		{
+			"name": "hospitallink",
+			"path": "../../../../Downloads/website_code/hospitallink"
+		},
+		{
+			"name": "hospitallink360-source",
+			"path": "../../../../Downloads/hospitallink360-source/hospitallink360-source"
+		},
+		{
+			"name": "hospitallink360-source",
+			"path": "../../../../Downloads/hospitallink360-source (1)/hospitallink360-source"
+		},
+		{
+			"name": "project",
+			"path": "../../../../Downloads/project-bolt-sb1-wvvqsba9 (1)/project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wave"
+	}
+}
